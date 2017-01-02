@@ -1,6 +1,24 @@
 {
   "name": "plutonium-dom-ref",
   "main": "plutonium-dom-ref.html",
+  "keywords": [
+    "html5", 
+    "polymer", 
+    "plutonium", 
+    "template"
+  ],
+  "authors": [
+    "lordoftheflies <heglas11@gmail.com>"
+  ],
+  "license": "MIT",
+    "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": false,
   "dependencies": {
     "polymer": "Polymer/polymer#^1.4.0"
   },
